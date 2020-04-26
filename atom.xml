@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://siberiaapp.ql-aa.xyz/</id>
+    <id>https://siberiaapp.ql-aa.xyz</id>
     <title>SiberiaApp</title>
-    <updated>2020-04-26T02:11:03.000Z</updated>
+    <updated>2020-04-26T02:11:15.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://siberiaapp.ql-aa.xyz/"/>
+    <link rel="alternate" href="https://siberiaapp.ql-aa.xyz"/>
     <link rel="self" href="https://siberiaapp.ql-aa.xyz/atom.xml"/>
     <subtitle>下载SiberiaApp</subtitle>
     <logo>https://siberiaapp.ql-aa.xyz/images/avatar.png</logo>
