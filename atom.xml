@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://siberiaapp.github.io</id>
     <title>SiberiaApp</title>
-    <updated>2020-04-26T00:00:08.314Z</updated>
+    <updated>2020-04-26T00:15:01.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://siberiaapp.github.io"/>
     <link rel="self" href="https://siberiaapp.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://siberiaapp.github.io/images/avatar.png</logo>
     <icon>https://siberiaapp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, SiberiaApp</rights>
+    <entry>
+        <title type="html"><![CDATA[小猿搜题PJ版]]></title>
+        <id>https://siberiaapp.github.io/post/xiao-yuan-sou-ti-pj-ban/</id>
+        <link href="https://siberiaapp.github.io/post/xiao-yuan-sou-ti-pj-ban/">
+        </link>
+        <updated>2020-04-26T00:03:04.000Z</updated>
+        <content type="html"><![CDATA[<p>这是我的博客第一个正经文章吧...<br>
+先给大家搞个小猿搜题PJ版，VIP时长无限，麻麻再也不用担心我的学习啦！（以前开了将近1年的VIP）</p>
+<blockquote>
+<p>小猿搜题PJ版（来源于微信公众号：轻雪，原文章地址：<br>
+https://mp.weixin.qq.com/s/L0vP_tEcpZcAIcOxQX_12w）<br>
+下载地址：https://feixue.lanzous.com/ibw7iad</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试123]]></title>
         <id>https://siberiaapp.github.io/post/ce-shi-123/</id>
