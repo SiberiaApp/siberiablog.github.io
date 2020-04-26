@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://siberiaapp.github.io</id>
+    <id>https://siberiaapp.github.io/siberiablog.github.io/</id>
     <title>SiberiaApp</title>
-    <updated>2020-04-26T02:17:25.532Z</updated>
+    <updated>2020-04-26T02:45:39.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://siberiaapp.github.io"/>
-    <link rel="self" href="https://siberiaapp.github.io/atom.xml"/>
+    <link rel="alternate" href="https://siberiaapp.github.io/siberiablog.github.io/"/>
+    <link rel="self" href="https://siberiaapp.github.io/siberiablog.github.io/atom.xml"/>
     <subtitle>下载SiberiaApp</subtitle>
-    <logo>https://siberiaapp.github.io/images/avatar.png</logo>
-    <icon>https://siberiaapp.github.io/favicon.ico</icon>
+    <logo>https://siberiaapp.github.io/siberiablog.github.io/images/avatar.png</logo>
+    <icon>https://siberiaapp.github.io/siberiablog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, SiberiaApp</rights>
     <entry>
         <title type="html"><![CDATA[我的爱发电主页]]></title>
-        <id>https://siberiaapp.github.io/post/wo-de-ai-fa-dian-zhu-ye/</id>
-        <link href="https://siberiaapp.github.io/post/wo-de-ai-fa-dian-zhu-ye/">
+        <id>https://siberiaapp.github.io/siberiablog.github.io/post/wo-de-ai-fa-dian-zhu-ye/</id>
+        <link href="https://siberiaapp.github.io/siberiablog.github.io/post/wo-de-ai-fa-dian-zhu-ye/">
         </link>
         <updated>2020-04-26T01:48:37.000Z</updated>
         <content type="html"><![CDATA[<p>如果有人资瓷我，就赞赏我吧！<br>
@@ -22,8 +22,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[小猿搜题PJ版]]></title>
-        <id>https://siberiaapp.github.io/post/xiao-yuan-sou-ti-pj-ban/</id>
-        <link href="https://siberiaapp.github.io/post/xiao-yuan-sou-ti-pj-ban/">
+        <id>https://siberiaapp.github.io/siberiablog.github.io/post/xiao-yuan-sou-ti-pj-ban/</id>
+        <link href="https://siberiaapp.github.io/siberiablog.github.io/post/xiao-yuan-sou-ti-pj-ban/">
         </link>
         <updated>2020-04-26T00:03:04.000Z</updated>
         <content type="html"><![CDATA[<p>这是我的博客第一个正经文章吧...<br>
@@ -37,8 +37,8 @@ https://mp.weixin.qq.com/s/L0vP_tEcpZcAIcOxQX_12w）<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[测试123]]></title>
-        <id>https://siberiaapp.github.io/post/ce-shi-123/</id>
-        <link href="https://siberiaapp.github.io/post/ce-shi-123/">
+        <id>https://siberiaapp.github.io/siberiablog.github.io/post/ce-shi-123/</id>
+        <link href="https://siberiaapp.github.io/siberiablog.github.io/post/ce-shi-123/">
         </link>
         <updated>2020-04-24T06:45:19.000Z</updated>
         <content type="html"><![CDATA[<p>水啊水，水啊水。。。。。。。。。</p>
@@ -47,8 +47,8 @@ https://mp.weixin.qq.com/s/L0vP_tEcpZcAIcOxQX_12w）<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[11111111]]></title>
-        <id>https://siberiaapp.github.io/post/11111111/</id>
-        <link href="https://siberiaapp.github.io/post/11111111/">
+        <id>https://siberiaapp.github.io/siberiablog.github.io/post/11111111/</id>
+        <link href="https://siberiaapp.github.io/siberiablog.github.io/post/11111111/">
         </link>
         <updated>2020-04-24T05:25:36.000Z</updated>
         <content type="html"><![CDATA[<p>12121212测试</p>
@@ -56,8 +56,8 @@ https://mp.weixin.qq.com/s/L0vP_tEcpZcAIcOxQX_12w）<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://siberiaapp.github.io/post/hello-gridea/</id>
-        <link href="https://siberiaapp.github.io/post/hello-gridea/">
+        <id>https://siberiaapp.github.io/siberiablog.github.io/post/hello-gridea/</id>
+        <link href="https://siberiaapp.github.io/siberiablog.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
