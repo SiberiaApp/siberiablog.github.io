@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://siberiaapp.github.io/siberiablog.github.io/</id>
     <title>SiberiaApp</title>
-    <updated>2020-04-26T02:45:39.983Z</updated>
+    <updated>2020-04-26T03:05:44.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://siberiaapp.github.io/siberiablog.github.io/"/>
     <link rel="self" href="https://siberiaapp.github.io/siberiablog.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://siberiaapp.github.io/siberiablog.github.io/images/avatar.png</logo>
     <icon>https://siberiaapp.github.io/siberiablog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, SiberiaApp</rights>
+    <entry>
+        <title type="html"><![CDATA[关于博客原网址没了的事情]]></title>
+        <id>https://siberiaapp.github.io/siberiablog.github.io/post/guan-yu-bo-ke-yuan-wang-zhi-mei-liao-de-shi-qing/</id>
+        <link href="https://siberiaapp.github.io/siberiablog.github.io/post/guan-yu-bo-ke-yuan-wang-zhi-mei-liao-de-shi-qing/">
+        </link>
+        <updated>2020-04-26T02:58:37.000Z</updated>
+        <content type="html"><![CDATA[<p>今天上午我原本想要绑定域名，但是一绑定域名之后...<br>
+网站就凉了！<br>
+但是博客的数据还是还在的，不用担心。<br>
+因为这个博客是基于github搭建的，所以在国内裸连可能会有点慢。<br>
+不过不用担心，镜像站很快就来了，但是会有广告，换个塞班UA就没事了。<br>
+以后这个博客应该什么都会发，包括软件的最新动态，一些迫姐汁源等等...</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的爱发电主页]]></title>
         <id>https://siberiaapp.github.io/siberiablog.github.io/post/wo-de-ai-fa-dian-zhu-ye/</id>
