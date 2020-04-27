@@ -8,9 +8,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://siberiaapp.github.io/siberiablog.github.io//favicon.ico?v=1587971602859">
+<link rel="shortcut icon" href="https://siberiaapp.github.io/siberiablog.github.io//favicon.ico?v=1587971967328">
 <link rel="stylesheet" href="https://siberiaapp.github.io/siberiablog.github.io//styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
@@ -32,7 +38,7 @@ https://mp.weixin.qq.co..." />
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://siberiaapp.github.io/siberiablog.github.io/">
-        <img src="https://siberiaapp.github.io/siberiablog.github.io//images/avatar.png?v=1587971602859" class="site-logo">
+        <img src="https://siberiaapp.github.io/siberiablog.github.io//images/avatar.png?v=1587971967328" class="site-logo">
         <h1 class="site-title">啊么么么么么的个人博客</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -128,6 +134,12 @@ https://mp.weixin.qq.com/s/L0vP_tEcpZcAIcOxQX_12w）<br>
             
 
             
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
 
           </div>
 
@@ -150,6 +162,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '13d91d77550f153dd30b',
+        clientSecret: '468c8d70401df558fa7edd2d42d0250955b1290f',
+        repo: 'siberiablog.github.io',
+        owner: 'SiberiaApp',
+        admin: ['SiberiaApp'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
