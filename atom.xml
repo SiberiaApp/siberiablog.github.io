@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://siberiaapp.github.io/siberiablog.github.io/</id>
     <title>啊么么么么么的个人博客</title>
-    <updated>2020-04-28T00:00:16.397Z</updated>
+    <updated>2020-04-28T00:20:07.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://siberiaapp.github.io/siberiablog.github.io/"/>
     <link rel="self" href="https://siberiaapp.github.io/siberiablog.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://siberiaapp.github.io/siberiablog.github.io/images/avatar.png</logo>
     <icon>https://siberiaapp.github.io/siberiablog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 啊么么么么么的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[【重磅消息】【建议转发】微信官方薅羊毛，快上车！]]></title>
+        <id>https://siberiaapp.github.io/siberiablog.github.io/post/chong-bang-xiao-xi-jian-yi-zhuan-fa-wei-xin-guan-fang-hao-yang-mao-kuai-shang-che/</id>
+        <link href="https://siberiaapp.github.io/siberiablog.github.io/post/chong-bang-xiao-xi-jian-yi-zhuan-fa-wei-xin-guan-fang-hao-yang-mao-kuai-shang-che/">
+        </link>
+        <updated>2020-04-28T00:15:18.000Z</updated>
+        <content type="html"><![CDATA[<p>微信官方内测，一个人可以领20元红包。<br>
+微信扫码查看自己有多少额度后即可领20元。<br>
+可以不用，只要看看额度就可以领20元。<br>
+⚠：部分人有额度，部分人没有！<br>
+现在是免费薅羊毛开通，建议转发！<br>
+（如果想支持我就扫扫二维码吧~）<br>
+<img src="https://siberiaapp.github.io/siberiablog.github.io//post-images/1588033172404.png" alt="" loading="lazy"><br>
+<img src="https://siberiaapp.github.io/siberiablog.github.io//post-images/1588033182315.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米6钉子户的福音——MIUI12内测邀请码]]></title>
         <id>https://siberiaapp.github.io/siberiablog.github.io/post/mi6dingzihu-miui12/</id>
