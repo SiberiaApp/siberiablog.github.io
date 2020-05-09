@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://siberiaapp.github.io/siberiablog.github.io/</id>
     <title>啊么么么么么的个人博客</title>
-    <updated>2020-05-09T02:23:25.087Z</updated>
+    <updated>2020-05-09T02:25:46.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://siberiaapp.github.io/siberiablog.github.io/"/>
     <link rel="self" href="https://siberiaapp.github.io/siberiablog.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://siberiaapp.github.io/siberiablog.github.io/post/dianying/">
         </link>
         <updated>2020-05-09T02:11:37.000Z</updated>
-        <content type="html"><![CDATA[<table>
+        <content type="html"><![CDATA[<p>如果挂了就去酷安联系我吧~</p>
+<table>
 <thead>
 <tr>
 <th>电影名称</th>
