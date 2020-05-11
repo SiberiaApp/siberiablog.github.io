@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://siberiaapp.github.io/siberiablog.github.io/</id>
     <title>啊么么么么么的个人博客</title>
-    <updated>2020-05-11T03:59:13.813Z</updated>
+    <updated>2020-05-11T07:18:53.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://siberiaapp.github.io/siberiablog.github.io/"/>
     <link rel="self" href="https://siberiaapp.github.io/siberiablog.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://siberiaapp.github.io/siberiablog.github.io/images/avatar.png</logo>
     <icon>https://siberiaapp.github.io/siberiablog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 啊么么么么么的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[jvav.top网址已经无法访问]]></title>
+        <id>https://siberiaapp.github.io/siberiablog.github.io/post/jvavtop-wang-zhi-yi-jing-wu-fa-fang-wen/</id>
+        <link href="https://siberiaapp.github.io/siberiablog.github.io/post/jvavtop-wang-zhi-yi-jing-wu-fa-fang-wen/">
+        </link>
+        <updated>2020-05-11T07:16:27.000Z</updated>
+        <content type="html"><![CDATA[<p>截止到发稿，jvav.top已经无法访问。<br>
+在github上有大佬猜测可能是因为知乎上的mc启动器事件<br>
+（详情请看https://zhuanlan.zhihu.com/p/139114864）<br>
+我不惹事，我只吃瓜。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韩国总统文在寅及夫人金正淑用我的世界祝贺儿童节快乐]]></title>
         <id>https://siberiaapp.github.io/siberiablog.github.io/post/han-guo-zong-tong-wen-zai-yin-ji-fu-ren-jin-zheng-shu-yong-wo-de-shi-jie-zhu-he-er-tong-jie-kuai-le/</id>
@@ -253,17 +265,6 @@ https://s1.ax1x.com/2020/04/28/J44e3j.png<br>
 <p>具体升级方式请参考申请页面提示。</p>
 <p>点击这里前往小米社区MIUI12内测申请页→<br>
 https://web.vip.miui.com/page/info/mio/mio/applyMIUI12?ref=wechat-MIUI</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恰饭恰饭恰饭]]></title>
-        <id>https://siberiaapp.github.io/siberiablog.github.io/post/qia-fan-qia-fan-qia-fan/</id>
-        <link href="https://siberiaapp.github.io/siberiablog.github.io/post/qia-fan-qia-fan-qia-fan/">
-        </link>
-        <updated>2020-04-27T03:24:24.000Z</updated>
-        <content type="html"><![CDATA[<p>原本想把博客接入谷歌广告的，但是由于域名的原因接不了<br>
-如果有人想赞赏我的话可以去我的爱发电https://afdian.net/@siberiaapp<br>
-或者要用文章来投广告的可以联系我邮箱或者酷安（联系方式在关于里面）</p>
 ]]></content>
     </entry>
 </feed>
