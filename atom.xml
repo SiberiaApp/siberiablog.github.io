@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://siberiaapp.github.io/siberiablog.github.io/</id>
     <title>啊么么么么么的个人博客</title>
-    <updated>2020-05-19T08:10:57.347Z</updated>
+    <updated>2020-05-20T02:31:54.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://siberiaapp.github.io/siberiablog.github.io/"/>
     <link rel="self" href="https://siberiaapp.github.io/siberiablog.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://siberiaapp.github.io/siberiablog.github.io/images/avatar.png</logo>
     <icon>https://siberiaapp.github.io/siberiablog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 啊么么么么么的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[讲个故事]]></title>
+        <id>https://siberiaapp.github.io/siberiablog.github.io/post/jiang-ge-gu-shi/</id>
+        <link href="https://siberiaapp.github.io/siberiablog.github.io/post/jiang-ge-gu-shi/">
+        </link>
+        <updated>2020-05-20T02:28:31.000Z</updated>
+        <content type="html"><![CDATA[<p>你知道清朝是怎么亡的吗？<br>
+闭关锁国。<br>
+为什么闭关锁国？<br>
+防止自己的王朝亡了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[问U9软件分发平台——连软件作者都不看就直接发布的吗？]]></title>
         <id>https://siberiaapp.github.io/siberiablog.github.io/post/u9nmsl/</id>
@@ -161,19 +173,6 @@ jvav到底是什么梗？相信大家对jvav都很熟悉，jvav就是我们每�
 <h1 id="我相信经过大家的共同努力这个邪恶的游戏一定会被消灭的请大家行动起来吧">我相信，经过大家的共同努力，这个邪恶的游戏一定会被消灭的，请大家行动起来吧。</h1>
 <h1 id="我相信在这次抗疫中我们能够胜利现在面对这样一种邪恶的毒害儿童和青少年的病毒般的游戏我们也能够胜利">我相信，在这次抗疫中，我们能够胜利，现在面对这样一种邪恶的毒害儿童和青少年的病毒般的游戏，我们也能够胜利！!</h1>
 <p>赞赏作者：https://afdian.net/@siberiaapp</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIUI最新内测版桌面，MIUI11可用，体验新动画]]></title>
-        <id>https://siberiaapp.github.io/siberiablog.github.io/post/miui-zui-xin-nei-ce-ban-zhuo-mian-miui11-ke-yong-ti-yan-xin-dong-hua/</id>
-        <link href="https://siberiaapp.github.io/siberiablog.github.io/post/miui-zui-xin-nei-ce-ban-zhuo-mian-miui11-ke-yong-ti-yan-xin-dong-hua/">
-        </link>
-        <updated>2020-04-29T00:24:34.000Z</updated>
-        <content type="html"><![CDATA[<p>MIUI最新内测版桌面，MIUI11可用，体验新动画</p>
-<blockquote>
-<p>下载地址<br>
-https://lanzous.com/ic1dlif</p>
-</blockquote>
 ]]></content>
     </entry>
 </feed>
