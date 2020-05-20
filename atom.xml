@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://siberiaapp.github.io/siberiablog.github.io/</id>
     <title>啊么么么么么的个人博客</title>
-    <updated>2020-05-20T11:57:04.276Z</updated>
+    <updated>2020-05-20T12:07:17.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://siberiaapp.github.io/siberiablog.github.io/"/>
     <link rel="self" href="https://siberiaapp.github.io/siberiablog.github.io/atom.xml"/>
@@ -16,8 +16,12 @@
         <link href="https://siberiaapp.github.io/siberiablog.github.io/post/ru-hai-mao-bu-yi/">
         </link>
         <updated>2020-05-20T11:50:41.000Z</updated>
-        <content type="html"><![CDATA[ <embed src="https://sharefs.yun.kugou.com/202005201946/fadfc32b6af3dcba20a1565c2f0190e9/G215/M09/15/01/Fw4DAF7D4S6AAs_UAFo6HBFPHIU153.mp3" hidden="true" autostart="true" loop="true">
-<p>测试一下背景音乐吧~</p>
+        <content type="html"><![CDATA[<p>音乐：</p>
+ <embed src="https://sharefs.yun.kugou.com/202005201946/fadfc32b6af3dcba20a1565c2f0190e9/G215/M09/15/01/Fw4DAF7D4S6AAs_UAFo6HBFPHIU153.mp3" hidden="true" autostart="true" loop="true">
+<p>MV：</p>
+<iframe src="//player.bilibili.com/player.html?aid=795637027&bvid=BV1tC4y1H7yz&cid=192966399&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<p>歌词：<br>
+<img src="https://siberiaapp.github.io/siberiablog.github.io//post-images/1589976404087.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
